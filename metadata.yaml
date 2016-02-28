@@ -1,0 +1,23 @@
+_repo: The-Theology-of-Holiness_6657
+creator:
+  author:
+    agent_name: Clark, Dougan
+    birthdate: 1828
+    deathdate: 1896
+    gutenberg_agent_id: '2134'
+    url: http://www.gutenberg.org/2009/agents/2134
+description: ''
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6657'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Holiness'
+- !lcc 'BT'
+- !lcsh 'Sanctification'
+title: The Theology of Holiness
+url: http://www.gutenberg.org/ebooks/6657
